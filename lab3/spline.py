@@ -43,7 +43,8 @@ def cubic_spline_interpolation(x, y):
  
  
 # Example usage
-x = np.array([-1, -0.6, -0.2, 0.2, 0.6, 1])
+#x = np.array([-1, -0.6, -0.2, 0.2, 0.6, 1])
+x = np.array([-1, -0.9, -0.8, -0.7, -0.6, -0.5, -0.4, -0.3, -0.2, -0.1, 0, 0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9, 1])
 y = np.abs(x)
  
 interpolating_function = cubic_spline_interpolation(x, y)
