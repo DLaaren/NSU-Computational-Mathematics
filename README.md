@@ -1,5 +1,6 @@
 # NSU-Computational-Mathematics
-Предмет 3 курса
+
+3 курс
 
 Семенарист = Остапенко
 
