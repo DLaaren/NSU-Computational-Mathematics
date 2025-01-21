@@ -1,6 +1,5 @@
-# Computational-Mathematics
-the 3d term
-
+# NSU-Computational-Mathematics
+Предмет 3 курса
 Семенарист = Остапенко
 
-(lab1 и lab3 не мои)
+(lab1 и lab3 не мои, были позаимствованы)
